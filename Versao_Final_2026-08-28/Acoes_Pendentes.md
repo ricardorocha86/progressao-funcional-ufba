@@ -1,22 +1,43 @@
 # Pendências
 
-- [x] ~~Confirmar CH do SLS 2020~~ — **feito**, 68h lançadas (+4,53)
-- [x] ~~Banca de qualificação Danillo~~ — **feito**, +1,00 (saiu da reserva)
-- [ ] **Conseguir certificado melhor** dos **6 pontos** que restam na reserva — usar só se cortarem os semestres
-- [ ] **Imprimir e entregar a Jalmar**
+## Antes de protocolar
+
+- [ ] **Justificar as avaliações de 2025.2 e 2026.1 (Portal do Docente) — 3º.** Valem **9,51 pontos** e usam régua diferente dos outros dois semestres (SIAV, escala A/B/C/D). Nota a incluir: *o SIAV não disponibilizou 2025.2 e 2026.1; foram usados os relatórios oficiais do Portal do Docente do SIGAA, computando como positivas as respostas (a)+(b) e as respostas "Sim".*
+- [ ] **Anexar prova de que orientei o Fernando — 2º.** A ata do PGMAT me registra como **"Presidente"** da banca, não como "orientador"; o item 1.5 exige orientação (**4 pontos**). Juntar o relatório do DEst (p. 8) ou pedir declaração do PGMAT.
+- [ ] **Apagar as abas "Plan2"** das três planilhas — 24 células de template em branco ("Nome do Professor", "CLASSE", "01 DE JANEIRO DE 20xx").
 - [ ] **Preencher a carta** — classe/nível, lotação, e-mail, telefone, departamento, unidade, data
+- [ ] **Imprimir e entregar a Jalmar**
+
+## Reserva — usar só se cortarem
+
+- [ ] **Krysthian Pires Lessa (Permanecer 2019/2020)** — até **4,00** pelo item 1.16, se a declaração confirmar 2019.2 e 2020.1
+- [ ] **Coordenação da monitoria da MAT223 em 2019.2** — até **3,00** pelo item 1.15, só com ato/relatório oficial (o CER sozinho é frágil)
+
+*Não usar: monitoria de Mariana Thais Almeida — é de 2019.1, pertence ao 1º interstício.*
 
 ---
 
-## Pontuação atual
+## Pontuação final
 
 | Interstício | Total | Folga |
 |---|---:|---:|
-| 1º | 124,35 | +24,35 |
-| **2º** | **110,98** | **+10,98** |
-| 3º | 104,60 | +4,60 |
+| 1º | **124,36** | +24,36 |
+| 2º | **114,98** | +14,98 |
+| 3º | **110,11** | +10,11 |
 
-O 2º subiu de 105,45 → **110,98**: ensino passou de 690h para **758h** (SLS incluído) e entrou a banca de qualificação do Danillo. Campo I = 64,53. Confere com a planilha e com o relatório.
+Conferido: planilha, relatório e índice de comprovantes fecham no mesmo número nos três.
+
+### Se cortarem
+
+| | 2º | 3º |
+|---|---:|---:|
+| Nada | 114,98 | 110,11 |
+| Avaliações do Portal (−9,51) | — | **100,60** ✓ por 0,60 |
+| Ponderam ensino (68% / 44%) | **104,67** ✓ | — |
+| Ponderam ensino + SIAV (−14,55) | **100,43** ✓ | — |
+| Sem o Fernando (−4,00) | 110,98 ✓ | — |
+
+**Os dois pontos sem margem:** no 3º, perder as avaliações do Portal deixa 0,60; no 2º, a ponderação cheia deixa 0,43. Qualquer corte adicional derruba — por isso a reserva do 2º (até 7,00) importa, e por isso vale blindar as avaliações do Portal com a nota explicativa.
 
 ---
 
@@ -46,19 +67,5 @@ Dois semestres atravessam a borda e foram contados **inteiros** no 2º:
 Nada de 2024.1 foi contado no 3º. Anexar calendário da greve.
 
 **Se cortarem, os percentuais corretos são 68% (2019.2) e 44% (2024.1)** — únicos calculados sobre dias letivos reais.
-
----
-
-## Se aplicarem os ponderadores
-
-| Cenário | 2º fica em | |
-|---|---:|---|
-| Como está | **110,98** | ✓ |
-| Ponderam só o ensino | **100,67** | ✓ passa sem reserva |
-| Ponderam ensino + SIAV | **96,43** | faltam 3,57 → com os 6 pts: **102,43** ✓ |
-
-Perda máxima se ponderarem tudo: −14,55.
-
-**Todos os cenários fecham os 100.** O único que precisa da reserva é o de ponderar também o SIAV.
 
 Argumento para manter o SIAV integral: a nota é **resultado do semestre inteiro**, apurada uma vez ao final — não é carga que se acumula dia a dia. Não há o que ratear.
