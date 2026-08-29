@@ -1,6 +1,8 @@
 # Pendências
 
-- [ ] **Falar com Jalmar** sobre a disciplina do 2º interstício — MATD65A e MATE56A (turmas de **férias** 2020, 34h cada) estão no SIGAA em meu nome mas **não dei**; por isso lancei 170h e não 238h. Corrigir no sistema ou pôr nota no relatório — senão sobram 68h sem explicação no comprovante
+- [ ] **CONFIRMAR — SLS da pandemia (provável +68h de CH).** De **15/09/2020 a 11/12/2020** dei Tópicos A e Tópicos B no **SLS**. São as turmas **MATD65A** e **MATE56A** (34h cada), que no SIGAA aparecem marcadas como **"FÉRIAS"** (08/09 a 18/12/2020) — por isso eu tinha lançado 170h em vez de 238h em 2020.
+  **O próprio dossiê já confirma:** o SIAV 2020.2 que eu já pontuo (4,98) é exatamente dessas duas turmas — MATD65 e MATE56, com 414 respostas de alunos. Se não tivesse dado aula, não haveria avaliação discente.
+  → Confirmar com Jalmar e **lançar as 68h**.
 - [ ] **Conseguir certificado melhor** dos ~7 pontos de reserva — usar só se cortarem as disciplinas
 - [ ] **Imprimir e entregar a Jalmar**
 - [ ] **Preencher a carta** — classe/nível, lotação, e-mail, telefone, departamento, unidade, data
@@ -31,7 +33,7 @@
 ```
 132 dias letivos · **132 são meus com certeza** (100%)
 
-> **CH:** lancei **170h**. O SIGAA mostra 238h porque inclui MATD65A e MATE56A (turmas de **férias**, 08/09 a 18/12/2020, 34h cada), que **não ministrei** e não pontuei. As 68h de diferença precisam de nota no relatório.
+> **CH:** lancei **170h**, mas o SIGAA mostra 238h. As 68h de diferença são MATD65A e MATE56A — as turmas do **SLS** (15/09 a 11/12/2020), marcadas como "férias" no sistema. **Eu dei essas aulas** → confirmar e lançar.
 
 ### 2021.1 — limpo
 ```
@@ -88,3 +90,19 @@ Nada de 2024.1 foi contado no 3º interstício. Anexar calendário da greve.
 ⚠️ **A diferença está no SIAV.** Se ponderarem também a avaliação discente, os 7 pontos de reserva não bastam.
 
 Argumento para manter o SIAV integral: a nota do SIAV é **resultado do semestre inteiro**, apurado uma vez ao final — não é carga que se acumula dia a dia. Não há o que ratear.
+
+---
+
+## Com as 68h do SLS incluídas (+4,53)
+
+| Cenário | sem SLS | **com SLS** |
+|---|---:|---:|
+| Tudo integral | 105,45 | **109,98** |
+| Ponderam só o ensino | 95,14 | **99,67** |
+| Ponderam ensino + SIAV | 90,90 | **95,43** |
+
+Somando os 7 pts de reserva: **106,67** (só ensino) · **102,43** (ensino + SIAV).
+
+**Com o SLS lançado, todo cenário fecha os 100** — inclusive o pior, desde que a reserva entre. Sem o SLS, o pior cenário não fecha nem com a reserva.
+
+→ **Confirmar o SLS é a ação mais valiosa da lista.**
