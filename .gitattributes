@@ -1,0 +1,3 @@
+# Os arquivos da entrega sao binarios: nunca aplicar conversao de fim de linha.
+*.pdf  binary
+*.xlsx binary
